@@ -1,0 +1,5 @@
+{
+  "dong_vat": ["elephant", "tiger", "giraffe", "penguin", "dolphin", "kangaroo", "cheetah", "ostrich", "squirrel", "rhinoceros", "hippopotamus"],
+  "nghe_nghiep": ["engineer", "doctor", "teacher", "programmer", "architect", "scientist", "mechanic", "musician", "astronaut", "chef", "detective"],
+  "do_vat": ["computer", "telescope", "umbrella", "keyboard", "microphone", "guitar", "bicycle", "camera", "compass", "scissors", "monitor"]
+}
